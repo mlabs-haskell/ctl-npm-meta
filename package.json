@@ -1,6 +1,6 @@
 {
   "name": "@mlabs-haskell/ctl-npm-meta",
-  "version": "2.0.0-beta.1",
+  "version": "2.0.0",
   "description": "Meta-package that bundles the npm dependencies required for cardano-transaction-lib.",
   "repository": {
     "type": "git",
@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@mlabs-haskell/cardano-data-lite": "0.1.0-prerelease8",
+    "@mlabs-haskell/cardano-data-lite": "1.0.1",
     "@mlabs-haskell/cardano-message-signing": "^1.0.1",
     "@mlabs-haskell/json-bigint": "2.0.0",
     "@mlabs-haskell/uplc-apply-args": "1.0.29-alpha",
